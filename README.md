@@ -4,29 +4,29 @@ Este proyecto fue realizado de manera independiente como parte de una tarea de l
 
 🚀 Funcionalidades
 
-✅ Agregar empleados
+  ✅ Agregar empleados
 
-✅ Iniciar una nueva venta
+  ✅ Iniciar una nueva venta
 
-✅ Ver ventas realizadas
+  ✅ Ver ventas realizadas
 
-✅ Ver productos vendidos por venta
+  ✅ Ver productos vendidos por venta
 
-✅ Consultar productos en inventario
+  ✅ Consultar productos en inventario
 
-✅ Ver notificaciones de inventario bajo
+  ✅ Ver notificaciones de inventario bajo
 
 🛠️ Tecnologías utilizadas
 
-Lenguaje: Python
+  Lenguaje: Python
 
-Entorno: Consola
+  Entorno: Consola
 
-Arquitectura: Modular, paradigma estructurado
+  Arquitectura: Modular, paradigma estructurado
 
 📚 Aprendizajes
 
-- Implementación de control de roles y autenticación de usuarios
-- Manejo de estructuras de datos para el registro de productos y ventas
-- Cálculo de IVA y gestión de stock automático
-- Aplicación de buenas prácticas de programación modular 
+  - Implementación de control de roles y autenticación de usuarios
+  - Manejo de estructuras de datos para el registro de productos y ventas
+  - Cálculo de IVA y gestión de stock automático
+  - Aplicación de buenas prácticas de programación modular 
